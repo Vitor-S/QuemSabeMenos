@@ -95,7 +95,7 @@ class Game{
     }
 }
 
-const game = new Game(['rosca', 'desleixado', 'comida', 'sujo', 'focinho'], "porca")
+const game = new Game(['semente', 'música', 'sozinho', 'cultivo', 'terra'], "solo")
 
 game.SetInitialConfigs()
 
