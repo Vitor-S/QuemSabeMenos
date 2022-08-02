@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Quem sabe menos ?</title>
+</head>
+<body>
+    <header>Quem sabe menos ?</header>
+    <main class="main">
+        <div id="game-container">
+            <div class="word-container" hint-container></div>
+            <div class="word-container" attempt-container></div>
+            <input type="text" id="input-word"> 
+        </div>
+    </main>
+
+    <div class="popup-wrapper">
+        <div id="popup-container">
+
+            <div id="info-container">
+                <h1 id="popup-status"></h1>
+                <h2 id="popup-answer"></h2>
+            </div>
+
+            <div id="attempts-container">
+                <h2>DISTRIBUIÇÃO DE TENTATIVAS</h2>
+                <div id="attempts"></div>
+            </div>
+
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
