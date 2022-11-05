@@ -10,3 +10,7 @@ Caso erre a palavra, a tentativa será armazenada no retângulo vermelho e uma n
 ![Win](https://user-images.githubusercontent.com/83622295/200094522-1205d9cc-1fea-4f30-b65f-179be7a43131.png)
 
 Ao fim do jogo uma mensagem personalizada aparece pro usuário em forma de pop-up.
+
+
+### Preview do Jogo
+![Game-2](https://user-images.githubusercontent.com/83622295/200095153-a0b41674-5d69-435e-a727-845d0d035f9d.png)
